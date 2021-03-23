@@ -31,7 +31,7 @@ If you connect a different display, or want to undo a deleted resolution you nee
 ![reset](https://raw.github.com/ramiroaraujo/alfred-set-resolution-workflow/master/screenshots/reset.png)
 
 ## Installation
-Download the [alfred-set-resolution.alfredworkflow](https://github.com/jkp/alfred-set-resolution-workflow/raw/master/alfred-set-resolution.alfredworkflow) and import to Alfred 2.
+Download the [alfred-set-resolution.alfredworkflow](https://github.com/jkp/alfred-set-resolution-workflow/raw/master/alfred-set-resolution.alfredworkflow) and import to Alfred.
 
 ## Credits
 
